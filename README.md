@@ -14,6 +14,7 @@ R file: In this document, we analyze predictors of water loss in _Melissodes tep
 
 ## Data: Contains the raw water loss data
 .csv file: In this document, we present the raw data collected in the water loss assays. The column headings should be interpreted as follows:
+
 Date = The date of collection
 ID = A unique ID number given to each specimen
 Treatment = Assignment to either a paired or singleton condition
