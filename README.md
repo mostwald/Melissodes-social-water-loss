@@ -5,6 +5,10 @@ In prep
 
 Please contact Madeleine Ostwald for questions regarding the code or data (ostwald.madeleine@gmail.com)
 
+[![DOI](https://zenodo.org/badge/671999969.svg)](https://zenodo.org/badge/latestdoi/671999969)
+
+
+
 # Abstract
 Climatic stressors are important drivers in the evolution of social behavior. Social animals tend to thrive in harsh and unpredictable environments, yet the mechanisms underlying social advantages in these contexts are often unclear. Here, we explore water conservation in forced associations of a solitary bee to test the hypothesis that grouping can generate synergistic physiological benefits in an incipient social context. Paired bees displayed mutual tolerance and experienced reduced water loss relative to singleton bees when exposed to acute low humidity stress. Social advantages such as these can facilitate the evolution of cooperation among non-relatives and offer important insights into the social consequences of climate change.
 
