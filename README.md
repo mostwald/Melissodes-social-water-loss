@@ -1,7 +1,7 @@
 # Social conditions facilitate water conservation in a solitary bee
 [Madeleine M. Ostwald](https://orcid.org/0000-0002-9869-8835), Valentina A. Venegas, & [Katja C. Seltmann](https://orcid.org/0000-0001-5354-6048)
 
-In prep
+In revisions
 
 Please contact Madeleine Ostwald for questions regarding the code or data (ostwald.madeleine@gmail.com)
 
@@ -14,10 +14,11 @@ Climatic stressors are important drivers in the evolution of social behavior. So
 
 # Repository Directory
 ## Code: Contains code for data analysis in R
-R file: In this document, we analyze predictors of water loss in _Melissodes tepidus timberlakei_ females, including: social condition, initial mass, activity level, and the interaction between social condition and activity level.
+Melissodes-water-loss-analysis.R: In this document, we analyze predictors of water loss in _Melissodes tepidus timberlakei_ females, including: social condition, initial mass, activity level, and the interaction between social condition and activity level.
 
-## Data: Contains the raw water loss data
-.csv file: In this document, we present the raw data collected in the water loss assays. The column headings should be interpreted as follows:
+## Data: Contains the raw water loss data and accession numbers for vouchered specimens
+vouchered_Melissodes_tepidus_specimens.csv: In this document, we present a list of catalog numbers of specimens collected from our focal aggregation site in spring 2022, identified as *Melissodes tepidus timberlakei* by Jaime Pawelek.
+Melissodes-water-loss-data.csv: In this document, we present the raw data collected in the water loss assays. The column headings should be interpreted as follows:
 
 Date = The date of collection
 
@@ -31,7 +32,9 @@ Initial mass (g) = The mass of the bee prior to the water loss assay
 
 Final mass (g) = The mass of the bee immediately following the water loss assay
 
-Dry mass (g) = The mass of the bee after drying (only applicable for 6 bees)
+Dry mass (g) = The mass of the bee after drying (only applicable for 10 bees)
+
+Catalog Number = The catalog number for any bees deposited in the University of California, Santa Barbara Invertebrate Zoology Collection
 
 Mass loss (g) = initial mass - final mass
 
