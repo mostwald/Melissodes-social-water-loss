@@ -10,17 +10,19 @@ Please contact Madeleine Ostwald for questions regarding the code or data (ostwa
 
 
 # Abstract
-Climatic stressors are important drivers in the evolution of social behavior. Social animals tend to thrive in harsh and unpredictable environments, yet the mechanisms underlying social advantages in these contexts are often unclear. Here, we explore water conservation in forced associations of a solitary bee to test the hypothesis that grouping can generate synergistic physiological benefits in an incipient social context. Paired bees displayed mutual tolerance and experienced reduced water loss relative to singleton bees when exposed to acute low humidity stress. Social advantages such as these can facilitate the evolution of cooperation among non-relatives and offer important insights into the social consequences of climate change.
+Climatic stressors are important drivers in the evolution of social behavior. Social animals tend to thrive in harsh and unpredictable environments, yet the mechanisms underlying social advantages in these contexts are often unclear. Here, we explore water conservation in forced associations of a solitary bee (*Melissodes tepidus timberlakei* Cockerell, 1926) to test the hypothesis that grouping can generate synergistic physiological benefits in an incipient social context. Paired bees displayed mutual tolerance and experienced reduced water loss relative to singleton bees when exposed to acute low humidity stress, with no change in activity levels. Social advantages such as these can facilitate the evolution of cooperation among non-relatives and offer important insights into the social consequences of climate change.
 
 # Repository Directory
 ## Code: Contains code for data analysis in R
 Melissodes-water-loss-analysis.R: In this document, we analyze predictors of water loss in _Melissodes tepidus timberlakei_ females, including: social condition, initial mass, activity level, and the interaction between social condition and activity level.
 
 ## Data: Contains the raw water loss data and accession numbers for vouchered specimens
-vouchered_Melissodes_tepidus_specimens.csv: In this document, we present a list of catalog numbers of specimens collected from our focal aggregation site in spring 2022, identified as *Melissodes tepidus timberlakei* by Jaime Pawelek.
+vouchered_Melissodes_tepidus_specimens.csv: In this document, we present a list of catalog numbers of specimens collected from our focal aggregation site in spring 2022, identified as *Melissodes tepidus timberlakei* by Jaime Pawelek. These specimens were used only for identification reference and not for analysis.
 Melissodes-water-loss-data.csv: In this document, we present the raw data collected in the water loss assays. The column headings should be interpreted as follows:
 
 Date = The date of collection
+
+Catalog Number = The unique catalog number of any vouchered specimens
 
 ID = A unique ID number given to each specimen
 
