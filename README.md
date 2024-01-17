@@ -1,7 +1,7 @@
 # Social conditions facilitate water conservation in a solitary bee
 [Madeleine M. Ostwald](https://orcid.org/0000-0002-9869-8835), Valentina A. Venegas, & [Katja C. Seltmann](https://orcid.org/0000-0001-5354-6048)
 
-In revisions
+In press
 
 Please contact Madeleine Ostwald for questions regarding the code or data (ostwald.madeleine@gmail.com)
 
